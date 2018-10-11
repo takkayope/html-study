@@ -1,4 +1,27 @@
 body {
     background-color: green;
     }
+
+.top {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+}
+
+.linkZone {
+    background-color: black;
+    color: gray;
+}
+
+.linkZoneLeft {
+    display: flex;
+    text-align: left;
+}
+.linkZoneRight {
+    text-align: right;
+}
+
+.linkBox {
+    padding: 10px;
+}
     
