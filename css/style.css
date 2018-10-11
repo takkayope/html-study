@@ -6,11 +6,16 @@ body {
     text-align: center;
     background-color: white;
     padding: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .linkZone {
     background-color: black;
     color: gray;
+    margin-left: 10px;
+    margin-right: 10px
 }
 
 .linkZoneLeft {
@@ -23,5 +28,14 @@ body {
 
 .linkBox {
     padding: 10px;
+}
+
+.main {
+    
+}
+.article {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
 }
     
