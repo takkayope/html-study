@@ -15,7 +15,7 @@ body {
     background-color: black;
     color: gray;
     margin-left: 10px;
-    margin-right: 10px
+    margin-right: 10px;
 }
 
 .linkZoneLeft {
@@ -25,16 +25,32 @@ body {
 .linkZoneRight {
     text-align: right;
 }
+a {
+    text-decoration: none;
+    color: gray; 
+}
 
 .linkBox {
     padding: 10px;
 }
 
 .main {
-    
+    display: flex;
 }
 .article {
+    width: 70%;
+}
+.sideBar {
+    width: 30%;
+}
+.box {
     background-color: white;
+    padding: 20px;
+    margin: 10px; 
+}
+.footer {
+    background-color: yellow;
+    text-align: center;
     margin: 10px;
     padding: 20px;
 }
