@@ -16,14 +16,16 @@ body {
     color: gray;
     margin-left: 10px;
     margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .linkZoneLeft {
-    display: flex;
-    text-align: left;
+    /* text-align: left; */
+    /* float: left; */
 }
 .linkZoneRight {
-    text-align: right;
+    /* text-align: right; */
 }
 a {
     text-decoration: none;
